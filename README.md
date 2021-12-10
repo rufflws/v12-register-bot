@@ -1,1 +1,1 @@
-# spect-register
+# v12-register-bot
